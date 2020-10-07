@@ -54,4 +54,18 @@ img:hover{
   
   .dropdown:hover .dropbtn {
     background-color: #3e8e41;
+
   }
+
+  .button {
+
+    border-style: solid;
+    width: fit-content;
+  
+    border-radius: 6px;
+  }
+  .container{    
+      display: flex;
+  
+  }
+a{color: black;}
